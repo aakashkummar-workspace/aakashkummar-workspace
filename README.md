@@ -59,8 +59,12 @@
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
     <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
-  <img src="https://img.shields.io/badge/n8n-AI_Automation-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Antigravity-AI_Tools-purple?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,docker" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/n8n-Automation-ff6a00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Antigravity-AI-purple?style=for-the-badge"/>
 </td>
 </tr>
 </table>
