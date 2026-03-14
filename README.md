@@ -58,7 +58,7 @@
 </td>
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio,antigravity,n8n," />
 </td>
 </tr>
 </table>
