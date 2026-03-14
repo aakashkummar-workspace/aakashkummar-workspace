@@ -21,14 +21,16 @@
 <h3>🌐 Socials</h3>
 <p align="left">
   <a href="https://github.com/aakashkummar-workspace">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/aakash-kummar-i-72a97431b">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://www.facebook.com/aakash.kummar.52">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=akashkummar-workspace&style=flat-square&color=blue" alt="Profile Visit"/>
